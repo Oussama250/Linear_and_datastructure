@@ -1,4 +1,4 @@
-Algorithm Read_sentence
+Algorithm sum
 
 VAR
 charactere : STRING[];
